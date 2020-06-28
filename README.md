@@ -2,6 +2,8 @@
 
 **iRemember**
 
+(datadaygrind/iremember.png)
+
 # Inspiration
 There are many mood tracking apps that keep a log of a user's mood for a specific day, and to look back at the end of the month to see the mood progress of the user. We, the iRemember team, however wanted to create an app that somehow captures important moments of an user's day, and turn it into a visualization users can look back at to see their wellness trends, and how these small moments (such as the hrs of sleep, daily tasks, feelings, thoughts, and moods) have progressed for any particular time period. Our motto is: To make a difference in the world, we need to make a positive impact in peoples lives.
 
